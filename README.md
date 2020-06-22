@@ -70,3 +70,8 @@ eec | Predicted True | Predicted False
 --- | --- | ---
 **Actual True** | 93 | 8
 **Actual False** | 983 | 16121
+
+
+## Conclusion
+
+After testing oversampling, undersampling and ensemble classifiers, many had sensitivity and accuracy scores ranging from 0.55-0.75. The EasyEnsembleClassfier was for and away the best option as it had a precision higher than previous models (10%) and a sensitivity of 92%, and an accuracy score of 0.93.
