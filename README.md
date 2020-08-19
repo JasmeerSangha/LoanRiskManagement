@@ -1,4 +1,4 @@
-# ML_LoanRisk
+# Supervised Predicting Loan Risk
 
 ## Resources
 - Data: [Loan data](https://github.com/JasmeerSangha/ML_LoanRisk/blob/master/LoanStats_2019Q1.zip)
